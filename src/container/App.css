@@ -27,3 +27,17 @@
   button {
     min-width: 80px;
   }
+
+
+  @font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('./SEGA.woff') format('woff');
+    }
+
+    h1{
+      font-family: 'SEGA LOGO FONT';
+      font-size: 200;
+      color: #0ccab4;
+    }
