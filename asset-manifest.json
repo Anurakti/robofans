@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/robofans/static/css/main.a4038cc4.chunk.css",
-    "main.js": "/robofans/static/js/main.f9de8b6f.chunk.js",
-    "main.js.map": "/robofans/static/js/main.f9de8b6f.chunk.js.map",
+    "main.js": "/robofans/static/js/main.6474e4ac.chunk.js",
+    "main.js.map": "/robofans/static/js/main.6474e4ac.chunk.js.map",
     "runtime-main.js": "/robofans/static/js/runtime-main.15330211.js",
     "runtime-main.js.map": "/robofans/static/js/runtime-main.15330211.js.map",
     "static/css/2.fe359a49.chunk.css": "/robofans/static/css/2.fe359a49.chunk.css",
@@ -12,6 +12,7 @@
     "static/css/2.fe359a49.chunk.css.map": "/robofans/static/css/2.fe359a49.chunk.css.map",
     "static/css/main.a4038cc4.chunk.css.map": "/robofans/static/css/main.a4038cc4.chunk.css.map",
     "static/js/2.89c89dde.chunk.js.LICENSE.txt": "/robofans/static/js/2.89c89dde.chunk.js.LICENSE.txt",
+    "static/media/Robot_image.3bf0cfeb.jpg": "/robofans/static/media/Robot_image.3bf0cfeb.jpg",
     "static/media/App.css": "/robofans/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
@@ -19,6 +20,6 @@
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.89c89dde.chunk.js",
     "static/css/main.a4038cc4.chunk.css",
-    "static/js/main.f9de8b6f.chunk.js"
+    "static/js/main.6474e4ac.chunk.js"
   ]
 }
