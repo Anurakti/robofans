@@ -26,7 +26,7 @@ export class App extends Component {
        //if you have some predefined properties that you want to have earlier 
        //then you can define in componentWillMount
         console.log("Inside will")
-        await fetch('http://jsonplaceholder.typicode.com/users')
+        await fetch('https://jsonplaceholder.typicode.com/users')
         .then(response=>{
             return response.json()
         })
